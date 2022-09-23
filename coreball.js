@@ -103,7 +103,7 @@
     }
     else{
       document.body.classList.add('fail');
-      alert('很抱歉你失败了！');      
+      alert('U suck ass！');      
       init(level)
     }
   }
